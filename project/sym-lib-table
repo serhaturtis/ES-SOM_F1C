@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lib_smrg)(type Legacy)(uri ${KIPRJMOD}/library/som_f1c.lib)(options "")(descr ""))
+)
