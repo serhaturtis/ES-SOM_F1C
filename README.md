@@ -19,7 +19,7 @@
 
 This is a linux capable system-on-module board made with Allwinner F1C processor. It has 16MB NOR and 128MB NAND flash on board. 
 
-### Why?
+## Why?
 
 Because I wanted to.
 
