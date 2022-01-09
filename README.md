@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/serhaturtis/som_f1c">
-    <img src="outputs/images/board_without_cuts.png" alt="SOM-F1C" width="80" height="80">
+    <img src="outputs/images/board_without_cuts.png" alt="SOM-F1C" width="200" height="200">
   </a>
 
 <h3 align="center">SOM-F1C</h3>
