@@ -2,8 +2,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/serhaturtis/som_f1c">
-    <img src="outputs/images/board_without_cuts.png" alt="SOM-F1C" width="300" height="220">
+  <a href="https://github.com/serhaturtis/SOM-F1C">
+    <img src="outputs/images/board_without_cuts.png" alt="SOM-F1C" width="500">
+    <img src="outputs/pcb/pcb.PNG" alt="SOM-F1C" width="500">
   </a>
 
 <h3 align="center">SOM-F1C</h3>
@@ -25,4 +26,4 @@ Because I wanted to.
 
 ## How?
 
-...
+Headers are placed to the egdes so that manufacturer can recognize it for edge plating.
