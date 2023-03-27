@@ -390,7 +390,7 @@
       "idf": "",
       "netlist": "som_f1c.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../outputs/3d/som_f1c.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

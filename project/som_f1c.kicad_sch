@@ -130,9 +130,6 @@
     (path "/00000000-0000-0000-0000-00005f7f4518/00000000-0000-0000-0000-00005f808e8d"
       (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005f7f456f/00000000-0000-0000-0000-00005f898c05"
-      (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005f7f456f/00000000-0000-0000-0000-00005f8bc97f"
       (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
     )
@@ -369,6 +366,9 @@
     )
     (path "/00000000-0000-0000-0000-00005f7f4518/00000000-0000-0000-0000-00006054db6f"
       (reference "J3") (unit 1) (value "Conn_01x15") (footprint "Connector_PinHeader_1.27mm:PinHeader_1x15_P1.27mm_Vertical")
+    )
+    (path "/00000000-0000-0000-0000-00005f7f4518/8e4ad33d-f7ac-439e-8794-dab527158aa3"
+      (reference "J4") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005f7f4518/00000000-0000-0000-0000-00005f90059e"
       (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_0805_2012Metric")
