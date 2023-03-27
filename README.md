@@ -18,7 +18,7 @@
 <!-- WHAT -->
 ## What?
 
-This is a linux capable system-on-module board made with Allwinner F1C processor. It has 16MB NOR and 128MB NAND flash on board. 
+This is a linux capable system-on-module board made with Allwinner F1C processor. It can hold SPI flash memory (like 16MB NOR or 128MB NAND) on board. 
 
 ## Why?
 
